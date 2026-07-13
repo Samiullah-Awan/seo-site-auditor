@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Generated SEO Audit Reports
+*_report.md
+seo_audit_results/
+
+# Log files
+*.log
